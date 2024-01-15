@@ -12,9 +12,9 @@ from streamlit_option_menu import option_menu
 
 # loading saved models 
 
-diabetes_model = pickle.load(open("/Users/benjamindavidson/Desktop/multiple disease prediction system /diabetes_model.sav","rb"))
+diabetes_model = pickle.load(open('diabetes_model.sav',"rb"))
 
-heart_disease_model = pickle.load(open("/Users/benjamindavidson/Desktop/multiple disease prediction system /heart_disease_model.sav","rb"))
+heart_disease_model = pickle.load(open('heart_disease_model.sav',"rb"))
 
 #sidebar for navigation 
 
