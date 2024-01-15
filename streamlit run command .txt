@@ -1,3 +1,0 @@
-
-
-streamlit run "/Users/benjamindavidson/Desktop/multiple disease prediction system /multiple disease prediction .py"
