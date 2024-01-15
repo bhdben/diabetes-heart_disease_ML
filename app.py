@@ -48,7 +48,7 @@ if (selected == "Diabetes Prediction"):
         BloodPressure = st.text_input("Blood Pressure")
     
     with col1:
-        SkinThickness = st.text_input("Skin Thickness at Tricep cm")
+        SkinThickness = st.text_input("Skin Thickness at Tricep")
     
     with col2:
         Insulin = st.text_input("Insulin Level")
